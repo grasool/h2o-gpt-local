@@ -11,3 +11,4 @@ conda activate h2ogpt
 
 ```
 
+The folder is ```  C:\H2OGPT\h2ogpt> ```
